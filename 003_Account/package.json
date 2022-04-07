@@ -1,0 +1,20 @@
+{
+  "name": "accounts_project",
+  "version": "1.0.0",
+  "description": "Simulador de gerenciamento de contas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "banco",
+    "node",
+    "simulação"
+  ],
+  "author": "Wesley Araújo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "inquirer": "^8.2.2"
+  }
+}
